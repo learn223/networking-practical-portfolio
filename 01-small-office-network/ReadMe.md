@@ -50,7 +50,7 @@ The router provides the default gateway for devices within the LAN.
 
 **Network topology diagram:**
 
-![Small Office Network Topology](evidence/01-network-topology.jpg)
+![Small Office Network Topology](evidence/network-topology.jpg)
 
 *Figure 1: Small office LAN topology designed using Cisco Packet Tracer.*
 
