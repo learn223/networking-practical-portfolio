@@ -1,4 +1,4 @@
-# Project 02: Physical LAN Deployment and Troubleshooting
+# Project 02: Physical LAN Connectivity and Resource Sharing
 
 ## 1. Project Overview
 
